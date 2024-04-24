@@ -67,7 +67,7 @@ Há duas funcionalidades desenvolvidas uma destinada aos orfanatos e outra ao us
 
   
 
-### 💻 versão web
+### 💻 versão web.
 
   
 
