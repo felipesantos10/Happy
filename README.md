@@ -30,7 +30,7 @@
 
   
 
-<!--Sobre o projeto-->
+<!--sobre o projeto-->
 
 ## 💻 Sobre o projeto
 
